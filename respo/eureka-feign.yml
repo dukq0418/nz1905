@@ -10,7 +10,7 @@ spring:
           search-paths: respo
 
 server:
-  port: 7777
+  port: 6666
 
 eureka:
   client:
